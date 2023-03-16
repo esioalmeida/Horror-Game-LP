@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  padding: 160px;
+  height: 100vh;
+  
+
+  background: black;
+  background-image: url(https://i.ibb.co/CH4zVKR/background-image.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+
+h3 span {
+  color: #FFC700;
+}
+
+h1 {
+  font-family: 'Emilys Candy';
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 80px;
+
+  color: #FFC700;
+}
+
+p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+  opacity: 0.7;
+  margin-bottom: 72px;
+}
+
+a {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  
+  color: #FFFFFF;
+  opacity: 0.6;
+
+  margin-right: 16px;
+  padding: 12px 32px;
+}
+
+a:hover {
+  background: #FFC700;
+}
+
+.second {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #040101;
+  background: #FFC700;
+
+  padding: 12px 32px;
+  text-decoration: 0;
+}
+
+
+
+
