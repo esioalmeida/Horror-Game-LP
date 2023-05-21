@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaramarques.github.io/Jornada-do-zero-a-primeira-vaga-Desafio01/)
+- [Visite o projeto online](https://esioalmeida.github.io/Horror-Game-LP/)
 
 <br/>
 
