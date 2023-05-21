@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-<a href="https://esioalmeida.github.io/Horror-Game-LP/" target="_blank">Visite o site online</a>
+<a href="https://esioalmeida.github.io/Horror-Game-LP/" target="_blank" >Visite o site online</a>
 
 <br/>
 
